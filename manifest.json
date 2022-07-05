@@ -1,0 +1,11 @@
+{
+    "name":"CountDown Timer",
+    "description": "Countdown timer with sound alarm",
+    "version" : "0.0.1",
+    "manifest_version" : 3,
+    "author":"Nikesh Kumar Maurya",
+    "action":{
+        "default_popup":"index.html",
+        "default_icon":"clock.png"
+    }
+}
